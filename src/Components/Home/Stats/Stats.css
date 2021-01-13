@@ -1,0 +1,16 @@
+.stats {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.stats img {
+  object-fit: contain;
+}
+
+.stats h3 {
+  margin: 1rem 0 0.5rem 0;
+  font-size: 1.5rem;
+  color: rgb(83, 141, 248);
+  text-transform: uppercase;
+}
